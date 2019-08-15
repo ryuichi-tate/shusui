@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Psots2s on 秀水書道教室</title>
+    <link>https://example.com/psots2/</link>
+    <description>Recent content in Psots2s on 秀水書道教室</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Thu, 15 Aug 2019 12:36:29 +0900</lastBuildDate>
+    
+	<atom:link href="https://example.com/psots2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>初のHP作成</title>
+      <link>https://example.com/psots2/my-first-post/</link>
+      <pubDate>Thu, 15 Aug 2019 12:36:29 +0900</pubDate>
+      
+      <guid>https://example.com/psots2/my-first-post/</guid>
+      <description>Hello World bbbb cccc こんにちは aa</description>
+    </item>
+    
+  </channel>
+</rss>
