@@ -3,16 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ryuichi-tate.github.io/shusui/psots2/new-sample/</loc>
+    <loc>https://ryuichi-tate.github.io/shusui/about/</loc>
     <lastmod>2019-08-15T15:01:20+09:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ryuichi-tate.github.io/shusui/psots2/</loc>
+    <loc>https://ryuichi-tate.github.io/shusui/about/new-sample/</loc>
     <lastmod>2019-08-15T15:01:20+09:00</lastmod>
-    <priority>0</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -22,7 +22,7 @@
   </url>
   
   <url>
-    <loc>https://ryuichi-tate.github.io/shusui/psots2/my-first-post/</loc>
+    <loc>https://ryuichi-tate.github.io/shusui/about/my-first-post/</loc>
     <lastmod>2019-08-15T12:36:29+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
