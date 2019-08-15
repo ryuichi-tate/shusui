@@ -6,10 +6,19 @@
     <description>Recent content on 秀水書道教室</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Thu, 15 Aug 2019 12:36:29 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 15 Aug 2019 15:01:20 +0900</lastBuildDate>
     
 	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>https://example.com/psots2/new-sample/</link>
+      <pubDate>Thu, 15 Aug 2019 15:01:20 +0900</pubDate>
+      
+      <guid>https://example.com/psots2/new-sample/</guid>
+      <description>こんにちは 改行ができない</description>
+    </item>
     
     <item>
       <title>初のHP作成</title>

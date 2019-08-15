@@ -3,8 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://example.com/psots2/new-sample/</loc>
+    <lastmod>2019-08-15T15:01:20+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://example.com/psots2/</loc>
-    <lastmod>2019-08-15T12:36:29+09:00</lastmod>
+    <lastmod>2019-08-15T15:01:20+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/</loc>
+    <lastmod>2019-08-15T15:01:20+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -13,12 +26,6 @@
     <lastmod>2019-08-15T12:36:29+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.com/</loc>
-    <lastmod>2019-08-15T12:36:29+09:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
