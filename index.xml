@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>秀水書道教室</title>
-    <link>https://example.com/</link>
+    <link>https://ryuichi-tate.github.io/shusui/</link>
     <description>Recent content on 秀水書道教室</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <lastBuildDate>Thu, 15 Aug 2019 15:01:20 +0900</lastBuildDate>
     
-	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ryuichi-tate.github.io/shusui/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://example.com/psots2/new-sample/</link>
+      <link>https://ryuichi-tate.github.io/shusui/psots2/new-sample/</link>
       <pubDate>Thu, 15 Aug 2019 15:01:20 +0900</pubDate>
       
-      <guid>https://example.com/psots2/new-sample/</guid>
+      <guid>https://ryuichi-tate.github.io/shusui/psots2/new-sample/</guid>
       <description>こんにちは 改行ができない</description>
     </item>
     
     <item>
       <title>初のHP作成</title>
-      <link>https://example.com/psots2/my-first-post/</link>
+      <link>https://ryuichi-tate.github.io/shusui/psots2/my-first-post/</link>
       <pubDate>Thu, 15 Aug 2019 12:36:29 +0900</pubDate>
       
-      <guid>https://example.com/psots2/my-first-post/</guid>
+      <guid>https://ryuichi-tate.github.io/shusui/psots2/my-first-post/</guid>
       <description>Hello World bbbb cccc こんにちは aa</description>
     </item>
     
