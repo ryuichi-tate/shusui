@@ -5,7 +5,7 @@
     <link>https://ryuichi-tate.github.io/shusui/</link>
     <description>Recent content on 秀水書道教室</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja-jp</language>
+    <language>en-us</language>
     <lastBuildDate>Thu, 15 Aug 2019 15:01:20 +0900</lastBuildDate>
     
 	<atom:link href="https://ryuichi-tate.github.io/shusui/index.xml" rel="self" type="application/rss+xml" />
@@ -13,20 +13,39 @@
     
     <item>
       <title>書道教室</title>
-      <link>https://ryuichi-tate.github.io/shusui/about/new-sample/</link>
+      <link>https://ryuichi-tate.github.io/shusui/home/new-sample/</link>
       <pubDate>Thu, 15 Aug 2019 15:01:20 +0900</pubDate>
       
-      <guid>https://ryuichi-tate.github.io/shusui/about/new-sample/</guid>
+      <guid>https://ryuichi-tate.github.io/shusui/home/new-sample/</guid>
       <description>こんにちは 現在作成中です。</description>
     </item>
     
     <item>
       <title>ようこそ</title>
-      <link>https://ryuichi-tate.github.io/shusui/about/my-first-post/</link>
+      <link>https://ryuichi-tate.github.io/shusui/home/my-first-post/</link>
       <pubDate>Thu, 15 Aug 2019 12:36:29 +0900</pubDate>
       
-      <guid>https://ryuichi-tate.github.io/shusui/about/my-first-post/</guid>
-      <description>ここは秀水書道教室のHPです。 現在作成中です。 強調</description>
+      <guid>https://ryuichi-tate.github.io/shusui/home/my-first-post/</guid>
+      <description> ここは秀水書道教室のHPです。  現在作成中です。 強調   雪だるまの写真
+ 雪だるまの写真   </description>
+    </item>
+    
+    <item>
+      <title>最初の作品</title>
+      <link>https://ryuichi-tate.github.io/shusui/gallery/sample-gallery/</link>
+      <pubDate>Thu, 15 Aug 2019 12:36:29 +0900</pubDate>
+      
+      <guid>https://ryuichi-tate.github.io/shusui/gallery/sample-gallery/</guid>
+      <description>雁塔聖教序節臨  雁塔聖教序節臨   よう書くわ&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>稽古日</title>
+      <link>https://ryuichi-tate.github.io/shusui/calendar/lesson-day/</link>
+      <pubDate>Thu, 15 Aug 2019 12:36:29 +0900</pubDate>
+      
+      <guid>https://ryuichi-tate.github.io/shusui/calendar/lesson-day/</guid>
+      <description> 通常日  お稽古は各自週１回、毎月４回行います。第５週のある月の場合は１週お休みになります。 稽古日は毎週以下の日程で行います。     曜日 開始時間 終了時間     月曜日 15:00 21:00   水曜日 15:00 19:00   木曜日 15:00 19:00   土曜日 13:00 19:00     稽古時間は約２時間程度です。  </description>
     </item>
     
   </channel>

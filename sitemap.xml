@@ -3,16 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ryuichi-tate.github.io/shusui/about/</loc>
+    <loc>https://ryuichi-tate.github.io/shusui/categories/</loc>
     <lastmod>2019-08-15T15:01:20+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ryuichi-tate.github.io/shusui/about/new-sample/</loc>
+    <loc>https://ryuichi-tate.github.io/shusui/home/</loc>
     <lastmod>2019-08-15T15:01:20+09:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryuichi-tate.github.io/shusui/tags/</loc>
+    <lastmod>2019-08-15T15:01:20+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryuichi-tate.github.io/shusui/categories/%E6%9B%B8%E9%81%93%E6%95%99%E5%AE%A4/</loc>
+    <lastmod>2019-08-15T15:01:20+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryuichi-tate.github.io/shusui/home/new-sample/</loc>
+    <lastmod>2019-08-15T15:01:20+09:00</lastmod>
   </url>
   
   <url>
@@ -22,19 +38,40 @@
   </url>
   
   <url>
-    <loc>https://ryuichi-tate.github.io/shusui/about/my-first-post/</loc>
-    <lastmod>2019-08-15T12:36:29+09:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://ryuichi-tate.github.io/shusui/categories/</loc>
+    <loc>https://ryuichi-tate.github.io/shusui/tags/%E7%BE%A4%E9%A6%AC%E7%9C%8C/</loc>
+    <lastmod>2019-08-15T15:01:20+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ryuichi-tate.github.io/shusui/tags/</loc>
+    <loc>https://ryuichi-tate.github.io/shusui/calendar/</loc>
+    <lastmod>2019-08-15T12:36:29+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryuichi-tate.github.io/shusui/gallery/</loc>
+    <lastmod>2019-08-15T12:36:29+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryuichi-tate.github.io/shusui/home/my-first-post/</loc>
+    <lastmod>2019-08-15T12:36:29+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ryuichi-tate.github.io/shusui/gallery/sample-gallery/</loc>
+    <lastmod>2019-08-15T12:36:29+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ryuichi-tate.github.io/shusui/calendar/lesson-day/</loc>
+    <lastmod>2019-08-15T12:36:29+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ryuichi-tate.github.io/shusui/archives/</loc>
     <priority>0</priority>
   </url>
   

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Galleries on 秀水書道教室</title>
+    <link>https://ryuichi-tate.github.io/shusui/gallery/</link>
+    <description>Recent content in Galleries on 秀水書道教室</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Aug 2019 12:36:29 +0900</lastBuildDate>
+    
+	<atom:link href="https://ryuichi-tate.github.io/shusui/gallery/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>最初の作品</title>
+      <link>https://ryuichi-tate.github.io/shusui/gallery/sample-gallery/</link>
+      <pubDate>Thu, 15 Aug 2019 12:36:29 +0900</pubDate>
+      
+      <guid>https://ryuichi-tate.github.io/shusui/gallery/sample-gallery/</guid>
+      <description>雁塔聖教序節臨  雁塔聖教序節臨   よう書くわ&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

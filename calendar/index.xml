@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Calendars on 秀水書道教室</title>
+    <link>https://ryuichi-tate.github.io/shusui/calendar/</link>
+    <description>Recent content in Calendars on 秀水書道教室</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Aug 2019 12:36:29 +0900</lastBuildDate>
+    
+	<atom:link href="https://ryuichi-tate.github.io/shusui/calendar/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>稽古日</title>
+      <link>https://ryuichi-tate.github.io/shusui/calendar/lesson-day/</link>
+      <pubDate>Thu, 15 Aug 2019 12:36:29 +0900</pubDate>
+      
+      <guid>https://ryuichi-tate.github.io/shusui/calendar/lesson-day/</guid>
+      <description> 通常日  お稽古は各自週１回、毎月４回行います。第５週のある月の場合は１週お休みになります。 稽古日は毎週以下の日程で行います。     曜日 開始時間 終了時間     月曜日 15:00 21:00   水曜日 15:00 19:00   木曜日 15:00 19:00   土曜日 13:00 19:00     稽古時間は約２時間程度です。  </description>
+    </item>
+    
+  </channel>
+</rss>

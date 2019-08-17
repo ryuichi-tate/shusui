@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on 秀水書道教室</title>
+    <link>https://ryuichi-tate.github.io/shusui/home/</link>
+    <description>Recent content in Homes on 秀水書道教室</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Aug 2019 15:01:20 +0900</lastBuildDate>
+    
+	<atom:link href="https://ryuichi-tate.github.io/shusui/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>書道教室</title>
+      <link>https://ryuichi-tate.github.io/shusui/home/new-sample/</link>
+      <pubDate>Thu, 15 Aug 2019 15:01:20 +0900</pubDate>
+      
+      <guid>https://ryuichi-tate.github.io/shusui/home/new-sample/</guid>
+      <description>こんにちは 現在作成中です。</description>
+    </item>
+    
+    <item>
+      <title>ようこそ</title>
+      <link>https://ryuichi-tate.github.io/shusui/home/my-first-post/</link>
+      <pubDate>Thu, 15 Aug 2019 12:36:29 +0900</pubDate>
+      
+      <guid>https://ryuichi-tate.github.io/shusui/home/my-first-post/</guid>
+      <description> ここは秀水書道教室のHPです。  現在作成中です。 強調   雪だるまの写真
+ 雪だるまの写真   </description>
+    </item>
+    
+  </channel>
+</rss>
